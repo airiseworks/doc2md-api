@@ -122,5 +122,13 @@ Open it in VS Code and select **“Reopen in Container”** to start with a full
 MIT – you are free to use, modify, and contribute.
 
 ---
+💰 Donations
+
+This initiative is open-source and free to use.
+If you find it valuable and would like to contribute, you can make a donation as a way to support the continuation of this work.
+
+[PayPal](https://www.paypal.com/donate/?business=KYF6D3FF3MTHA&no_recurring=0&item_name=This+project+is+developed+an+open-source+initiative+to+provide+a+simple+and+secure+API+for+converting+documents+into+Markdown.&currency_code=USD)
+
+---
 
 Project powered by [FastAPI](https://fastapi.tiangolo.com/) and [MarkItDown](https://github.com/microsoft/markitdown).
