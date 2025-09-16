@@ -1,0 +1,8 @@
+{
+  "name": "Doc2MD API",
+  "image": "mcr.microsoft.com/devcontainers/python:3.12-bookworm",
+  "updateContentCommand": "pip install --no-cache-dir -r requirements.txt || true",
+  "postCreateCommand": "pip install --no-cache-dir -r requirements.txt || true",
+  "forwardPorts": [8000],
+  "containerEnv": { "API_KEY": "changeme" }
+}
